@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Flock": {
+            "applicationId": "InMNz5UfTlwLEN5ffUfwRqZIgEyUW1b8oXhOGbwW", 
+            "masterKey": "9mBn2f64pOSTyjote27LDrHz6Xgo7QqvgLw4wuGy"
+        }, 
+        "_default": {
+            "link": "Flock"
+        }
+    }
+}
